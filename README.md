@@ -3,7 +3,7 @@
 Clone the repository and then install dependencies
 
 ```sh
-git clone https://github.com/MagusWyvern/paws2help.git
+git clone https://github.com/hakimnazry24/ClubManager.git
 npm install
 ```
 

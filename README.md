@@ -1,3 +1,6 @@
+## Project Description
+The Club Manager Web Application System is a robust platform offering three main functionalities: member management, financial management, and program management. It enables administrators to efficiently handle member registrations, track finances, and organize club activities and events. This comprehensive system enhances operational efficiency and member satisfaction by providing tools for streamlined management across all aspects of club operations.
+
 ## Project Setup
 
 Clone the repository and then install dependencies
